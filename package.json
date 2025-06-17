@@ -1,0 +1,27 @@
+{
+  "name": "authentication-practice",
+  "version": "1.0.0",
+  "description": "Learning from Hitesh YT",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsha0x3/Authentication-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsha0x3/Authentication-Practice/issues"
+  },
+  "homepage": "https://github.com/harsha0x3/Authentication-Practice#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.0"
+  }
+}
